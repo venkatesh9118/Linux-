@@ -9,3 +9,20 @@ Build
 changes
 build
 main
+ls – List files and folders
+
+ls -l – List with details
+
+ls -a – Show hidden files
+
+pwd – Show current directory path
+
+cd foldername – Go into a folder
+
+cd .. – Go back one directory
+
+cd ~ – Go to home directory
+
+mkdir foldername – Create a folder
+
+rmdir foldername – Delete empty folder
